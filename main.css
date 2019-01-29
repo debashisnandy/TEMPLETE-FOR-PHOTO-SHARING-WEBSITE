@@ -18,6 +18,10 @@ header{
     width: 5%;
 }
 
+.brandImage-overlay{
+    background: #898b8b5e;
+}
+
 ul{
     padding-left: 0;
     padding-right: 2%;
@@ -37,6 +41,7 @@ li{
     background: url(img/headImg.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: auto;
 }
 
